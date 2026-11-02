@@ -38,6 +38,6 @@ python cyber_attack_detection.py
 - Improved AI model accuracy
 
 ## Author
-**Afreena Salim**
+**Vismaya P K**
 
 Computer Science Engineering Student
